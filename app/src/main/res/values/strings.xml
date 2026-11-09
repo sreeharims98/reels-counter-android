@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reels Counter</string>
+    <string name="service_label">Reels Counter</string>
+    <string name="service_description">Counts the Instagram Reels and YouTube Shorts you watch and enforces the daily limits you set. It only looks at which screen is open inside Instagram and YouTube. Nothing leaves your phone.</string>
+</resources>
